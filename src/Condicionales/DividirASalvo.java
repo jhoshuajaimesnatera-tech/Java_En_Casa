@@ -20,6 +20,7 @@ public class DividirASalvo {
 			System.out.println(dividendo + "/" + divisor + "=" + (dividendo/divisor));
 		}
 
+		sc.close();
 	}
 
 }
